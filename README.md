@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+  <table>
+    <tr>
+        <td><img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobau&hide=html&layout=compact&theme=buefy" /> 
+  </table>
+</center>  
+
+![](https://komarev.com/ghpvc/?username=dobau&color=blue&style=flat)
